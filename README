@@ -1,0 +1,6 @@
+Witaj, pomoge tobie zainstalowac moj problem.
+krok 1: Wrzuc wszystkie pobrane pliki do jednego katalogu.
+krok 2: Otworz twoj nowo utwoezony katalog za pomoca komendy "cd"
+krok 3: Wywolaj komende "make code2", aby uruchomic instalowanie programu.
+krok 4: Po wykonaniu make postepuj zgodnie z tym co powie program.
+Milego korzystania :) 
